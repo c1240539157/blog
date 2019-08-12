@@ -80,3 +80,4 @@ theme: next
 deploy:
   type: git
   repo: https://github.com/c1240539157/c1240539157.github.io.git
+  branch: master
